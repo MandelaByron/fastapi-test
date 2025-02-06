@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello, AWS ECS!"}
+    return {"message": "Hello, AWS ECS, New Update!"}
