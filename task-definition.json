@@ -94,6 +94,5 @@
     },
     "registeredAt": "2025-02-06T14:35:28.246Z",
     "registeredBy": "arn:aws:sts::386056457794:assumed-role/AWSReservedSSO_AdministratorAccess_7bf5e2b58bb02893/byron_mandela",
-    "enableFaultInjection": false,
     "tags": []
 }
